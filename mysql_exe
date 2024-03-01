@@ -1,0 +1,3 @@
+#!/bin/bash
+mysql -u root -phortonworks1 sakila -e "source ./mysql_queries.sql;"
+
